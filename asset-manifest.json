@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Redesign-of-site-for-NGO-Wesaveanimals/static/css/main.fb453793.css",
+    "main.js": "/Redesign-of-site-for-NGO-Wesaveanimals/static/js/main.763b7220.js",
+    "static/media/seri.png": "/Redesign-of-site-for-NGO-Wesaveanimals/static/media/seri.a477b8be5eaaa95dcf08.png",
+    "static/media/home.png": "/Redesign-of-site-for-NGO-Wesaveanimals/static/media/home.d4d81f7374a20bdad74d.png",
+    "static/media/adoptionfff.png": "/Redesign-of-site-for-NGO-Wesaveanimals/static/media/adoptionfff.92e755baf7d562205395.png",
+    "static/media/surenderffffff.png": "/Redesign-of-site-for-NGO-Wesaveanimals/static/media/surenderffffff.d36553a45274989c5b30.png",
+    "static/media/cruff.png": "/Redesign-of-site-for-NGO-Wesaveanimals/static/media/cruff.b47a1c6aee418903290a.png",
+    "static/media/kimbely.webp": "/Redesign-of-site-for-NGO-Wesaveanimals/static/media/kimbely.6b4d9ef00a8bf3eb823f.webp",
+    "static/media/ujwala.webp": "/Redesign-of-site-for-NGO-Wesaveanimals/static/media/ujwala.4e189298733b18358d5c.webp",
+    "static/media/swetha.webp": "/Redesign-of-site-for-NGO-Wesaveanimals/static/media/swetha.5c1b69d152732b7de53d.webp",
+    "static/media/gyaneshwar.webp": "/Redesign-of-site-for-NGO-Wesaveanimals/static/media/gyaneshwar.63c330ef86a1e1466015.webp",
+    "static/media/logo.png": "/Redesign-of-site-for-NGO-Wesaveanimals/static/media/logo.b2127b7c147e3e2a6a2f.png",
+    "index.html": "/Redesign-of-site-for-NGO-Wesaveanimals/index.html",
+    "main.fb453793.css.map": "/Redesign-of-site-for-NGO-Wesaveanimals/static/css/main.fb453793.css.map",
+    "main.763b7220.js.map": "/Redesign-of-site-for-NGO-Wesaveanimals/static/js/main.763b7220.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb453793.css",
+    "static/js/main.763b7220.js"
+  ]
+}
